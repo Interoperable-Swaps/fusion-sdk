@@ -16,5 +16,8 @@ export const CHAIN_TO_WRAPPER = {
     ),
     [NetworkEnum.ETHERLINK_TESTNET]: new Address(
         '0xB1Ea698633d57705e93b0E40c1077d46CD6A51d8'
+    ),
+    [NetworkEnum.TEZOS]: new Address(
+        '0xB1Ea698633d57705e93b0E40c1077d46CD6A51d8'
     )
 }

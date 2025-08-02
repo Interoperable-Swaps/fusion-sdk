@@ -5,7 +5,8 @@ export enum NetworkEnum {
     BINANCE = 56,
     ARBITRUM = 42161,
     SEPOLIA = 11155111,
-    ETHERLINK_TESTNET = 128123
+    ETHERLINK_TESTNET = 128123,
+    TEZOS = 101
 }
 
 export const ONE_INCH_LIMIT_ORDER_V4 =
